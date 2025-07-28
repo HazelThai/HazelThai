@@ -17,7 +17,7 @@ I have a passion for technology — whether it's easy or hard, I always keep lea
 
 Based on my major and personal passion, I’ve gained experience with:
 
-- 💻 **Frontend:** ... React, Redux, React Query, Next.js, TypeScript, Tailwind CSS  
+- 💻 **Frontend:** HTML, CSS, SCSS/SASS, ES6, React, Redux, React Query, Next.js, TypeScript, Tailwind CSS, Responsive Design  
   Experience with RESTful APIs using `fetch`, `axios`, and `React Query`. Worked with libraries like Ant Design, ShadCN, MUI, and converted designs from Figma/Photoshop into code.
   
 - 🧠 **AI & Data:** Basic Python, Kaggle, Jupyter Notebook  
