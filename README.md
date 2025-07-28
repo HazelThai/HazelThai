@@ -6,6 +6,8 @@
 
 I have a passion for technology — whether it's easy or hard, I always keep learning and practicing to improve day by day.
 
+I’m currently learning IELTS to improve my English skills and to earn an official certificate.
+
 > "I don't promise anything, but I always try my best."
 
 📫 Reach me at: [Email](mailto:hazelthai.fw@gmail.com)  
@@ -34,3 +36,5 @@ Based on my major and personal passion, I’ve gained experience with:
 - 🌟 I love turning ideas into real web apps — my head is always full of new ideas.
 - 🐶 I have a dog named **LEO**.
 - 🎮 I enjoy gaming, listening to music, designing UI, and of course, coding!
+- 🎸 Currently learning how to play the guitar.
+- 🗣️ I hope to learn French in the near future.
