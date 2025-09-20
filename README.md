@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kim Huong (Hazel)
+# Hi there, I'm Kim Huong (Hazel)
 
 I am a passionate Frontend Developer with over 1.5 years of experience specializing in building engaging and responsive user interfaces for landing pages, homepages, CMS, and e-commerce websites.
 
@@ -8,9 +8,10 @@ As a Computer Science graduate, I am committed to continuous learning and improv
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Based on my professional experience and personal projects, I have gained proficiency in the following technologies:
+
 **Frontend**
 - **Languages & Frameworks:** HTML, CSS, SCSS/SASS, JavaScript (ES6), React, Redux, React Query, Next.js, and TypeScript.
 - **Styling:** Tailwind CSS, Responsive Design.
