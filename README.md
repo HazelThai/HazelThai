@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science student. To deepen my frontend knowledge, I completed the Frontend Master Course at CFD Circle in 2023.
 
-💻 I'm a Frontend Developer with 1 year of experience working on landing pages, homepages, CMS, and e-commerce websites (since mid-2024).
+💻 I'm a Frontend Developer with 1.5+ year of experience working on landing pages, homepages, CMS, and e-commerce websites (since mid-2024).
 
 I have a passion for technology — whether it's easy or hard, I always keep learning and practicing to improve day by day.
 
